@@ -1,0 +1,6 @@
+doctor_id,username,password,name,specialization,availability,contact,email
+DOC001,drraj,doc123,Dr. Raj Kumar,Cardiologist,Mon-Fri 10AM-4PM,9876543210,raj.kumar@medicore.com
+DOC002,drsneha,doc456,Dr. Sneha Reddy,Dermatologist,Tue-Sat 9AM-2PM,9988776655,sneha.reddy@medicore.com
+DOC003,drarun,doc789,Dr. Arun Prakash,Orthopedic,Mon-Fri 11AM-5PM,9123456780,arun.prakash@medicore.com
+DOC004,drlatha,doc321,Dr. Latha Devi,Pediatrician,Wed-Sun 10AM-3PM,9345678123,latha.devi@medicore.com
+DOC005,drvivek,doc654,Dr. Vivek Sharma,Neurologist,Mon-Fri 9AM-1PM,9001122334,vivek.sharma@medicore.com

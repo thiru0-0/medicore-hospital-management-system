@@ -1,0 +1,2 @@
+appointment_id,patient_id,doctor_id,doctor_name,specialization,date,time,reason,status,diagnosis,prescription
+APT20251102145140,PAT001,DOC002,Dr. Sneha Reddy,Dermatologist,2025-11-11,01:30,Consultations,Scheduled,,

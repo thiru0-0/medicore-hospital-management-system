@@ -1,0 +1,6 @@
+patient_id,username,password,name,age,gender,contact,email,address
+PAT001,john_doe,pat123,John Doe,28,Male,9876543210,john.doe@gmail.com,"Chennai, TN"
+PAT002,priya_98,pat456,Priya Lakshmi,26,Female,9898989898,priya.lakshmi@gmail.com,"Coimbatore, TN"
+PAT003,arun_v,pat789,Arun Varma,34,Male,9123456789,arun.varma@gmail.com,"Madurai, TN"
+PAT004,meena_p,pat321,Meena Paramesh,30,Female,9234567890,meena.p@gmail.com,"Salem, TN"
+PAT005,rahul_k,pat654,Rahul Kumar,22,Male,9567890123,rahul.kumar@gmail.com,"Trichy, TN"
