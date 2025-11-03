@@ -432,12 +432,6 @@ For issues, questions, or suggestions:
 
 ---
 
-## 📅 Last Updated
-
-*Last updated: December 2024*
-
----
-
 **Note**: This is an educational project demonstrating CRUD operations, menu-driven interfaces, and ML integration in a hospital management context. Always consult healthcare professionals for medical advice.
 
 ---
